@@ -51,7 +51,7 @@ asyncer = "^0.0.2"
 httpx = "^0.23.1"
 pandas = "^1.5.3"
 openpyxl = "^3.0.10"
-redis = "^4.5.1"
+redis = "^4.5.4"
 fastapi-async-sqlalchemy = "^0.3.12"
 
 [tool.poetry.group.dev.dependencies]
